@@ -7,10 +7,15 @@ body {
   background: $gray; // Using this variable
 }
 
+h1 {
+  color: green !important;
+}
+
 .banner {
   background: red;
   h1 {
     font-size: 50px;
+    color: red !important;
   }
 }
 
